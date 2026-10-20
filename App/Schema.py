@@ -1,0 +1,1 @@
+# Validate input data and define the structure of the response for the application
